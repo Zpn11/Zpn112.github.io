@@ -9,13 +9,13 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+1230028951@student.must.edu.mo
 
 Phone
-+1 (213) 352-2795
++853 68048877
 
 Birthday
-June 23, 1982
+April 27, 2005
 
 Location
 Sacramento, California, USA
